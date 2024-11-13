@@ -1,0 +1,1 @@
+ffmpeg -framerate 12 -i "comboMIP-%%03d.webp" output.webm
